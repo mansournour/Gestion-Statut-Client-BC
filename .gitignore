@@ -1,0 +1,13 @@
+# AL / Business Central
+*.app
+*.g.xlf
+*.xlf
+
+# VS Code
+.vscode/rad.json
+
+# AL Packages (symboles téléchargés)
+.alpackages/
+
+# Snapshots
+.snapshots/

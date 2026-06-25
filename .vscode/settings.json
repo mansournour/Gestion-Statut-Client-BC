@@ -1,0 +1,8 @@
+{
+  "al.enableCodeAnalysis": true,
+  "al.enableCodeActions": true,
+  "al.compilationOptions": {
+    "generateReportLayout": true
+  },
+  "editor.formatOnSave": true
+}

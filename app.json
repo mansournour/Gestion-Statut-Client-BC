@@ -1,0 +1,33 @@
+{
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "name": "Gestion Statut Client",
+  "publisher": "Nour",
+  "version": "1.0.0.0",
+  "brief": "Extension pour gérer le statut des clients dans Business Central",
+  "description": "Ajoute un champ Statut Client aux fiches clients avec contrôle métier pour bloquer les devis et commandes des clients bloqués.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50299
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "target": "Cloud",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
