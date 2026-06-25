@@ -223,7 +223,7 @@ Lorsqu'un client bloqué est sélectionné pour un devis ou une commande :
 
 ## 👤 Auteur
 
-**Mansour Nour** — Développeur Business Central
+**Mansour Nour** — Stagiaire en développement Business Central chez **SmartSystems**
 
 ---
 
